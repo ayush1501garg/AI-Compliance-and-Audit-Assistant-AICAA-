@@ -58,7 +58,7 @@ The AI Compliance and Audit Assistant (AICAA) is an advanced platform designed t
 - **Process Automation:** Automates workflows to improve operational efficiency.
 - **Collaboration Tools:** Enhances team collaboration and information sharing.
 
-## Leveraging Azure AI and GPT-4
+## Tools Leveraging Azure AI and GPT-4
 
 ### 1. Azure AI Build a Bot
 - **Intelligent Chatbots:** Provides instant support and guidance for users.
@@ -89,8 +89,6 @@ The AI Compliance and Audit Assistant (AICAA) is an advanced platform designed t
 - **User Engagement:** Enhances user experience through intuitive interfaces and interactive features.
 - **Real-Time Support:** Offers immediate assistance and guidance through intelligent chatbots.
 
-## License
-This project is licensed under [insert license].
 
 ## Acknowledgments
 This project leverages Azure AI and GPT-4 for advanced AI capabilities.
