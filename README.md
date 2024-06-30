@@ -78,6 +78,9 @@ The AI Compliance and Audit Assistant (AICAA) is an advanced platform designed t
 ### 6. Azure OpenAI Service
 - **GPT-4 Integration:** Enhances content generation and reporting functionalities.
 
+### 7. Azure Kubernetes Service (AKS)
+- ** managing containerized applications**: providing automated scaling and self-healing capabilities. 
+
 ## Benefits
 
 - **Enhanced Knowledge Retention:** Personalized learning improves retention rates.
